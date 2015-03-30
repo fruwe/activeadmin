@@ -15,6 +15,7 @@ module ActiveAdmin
       autoload :SelectInput
       autoload :CheckBoxesInput
       autoload :BooleanInput
+      autoload :EnumInput
     end
   end
 end
